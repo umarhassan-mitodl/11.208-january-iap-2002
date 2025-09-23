@@ -1,0 +1,59 @@
+{
+  "term": "January IAP",
+  "year": "2002",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Information Technology"
+    ],
+    [
+      "Social Science",
+      "Public Administration"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ]
+  ],
+  "legacy_uid": "9e1f909c-f4c1-8712-9378-c8a0d00d74fe",
+  "instructors": {
+    "content": [
+      "46f1b637-95f4-61e4-bbf8-b4f2d1027a7d",
+      "74271476-78a6-035d-9a63-c7b08018ca72",
+      "2a4125b0-4779-3214-6347-84cdd7e51be2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "71a1053f-72fd-1269-bcf0-ed916173388f",
+    "website": "11-208-introduction-to-computers-in-public-management-ii-january-iap-2002"
+  },
+  "course_title": "Introduction to Computers in Public Management II",
+  "course_description": "Second of two modules facilitating a basic understanding of computing in planning and public management. Students develop problem-solving skills using computer-based tools for \"what-if\" analyses. Emphasis on spatial analysis using geographic information systems and database query tools.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.208",
+  "course_image_thumbnail": {
+    "content": "15c6b3f2-7db8-3e2f-05bc-53bfc8d60720",
+    "website": "11-208-introduction-to-computers-in-public-management-ii-january-iap-2002"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "77643a84-5dfc-4057-9286-3acdca6feece",
+  "site_short_id": "11.208-january-iap-2002",
+  "site_url_path": "courses/11-208-introduction-to-computers-in-public-management-ii-january-iap-2002",
+  "title": "Course Metadata"
+}
