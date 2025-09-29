@@ -5,6 +5,8 @@ description: Lecture notes providing an overview of 11.208 Introduction to Compu
 file: /courses/11-208-introduction-to-computers-in-public-management-ii-january-iap-2002/34a8895ddf86ebcf3ffbc41b0a8f21b1_lect11.pdf
 file_size: 73128
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

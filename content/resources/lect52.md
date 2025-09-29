@@ -5,6 +5,8 @@ description: "Lecture notes on database design principles, relational databases,
 file: /courses/11-208-introduction-to-computers-in-public-management-ii-january-iap-2002/f61e098641cd8231afd226e8658026a3_lect52.pdf
 file_size: 106226
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

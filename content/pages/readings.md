@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the list of readings assigned for each session
   of the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -243,11 +245,11 @@ An overview of planning uses of database management, both now and in the future.
 {{< tdopen >}}
 
 
-NSDI: {{% resource_link "bd351ebb-d5fe-4837-8507-8e96f0c0cba3" "The National Spatial Data Infrastructure" %}}
+NSDI: [The National Spatial Data Infrastructure](http://www.dst.gov.in/national-spatial-data-infrastructure)
 
 Ferreira, J. "Informating the Dialogue between Public Agencies and Low-Income Communities."
 
-{{% resource_link "b9ccb32f-3138-425b-962c-c8d94f128d6a" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Ferreira, J. "Information Technologies that Change Relationships Between Low-income Communities and the Public and Non-Profit Agencies that Serve Them." In High Technology and Low-Income Communities: Prospects for the Positive Use of Advanced Information Technology, eds. Donald A. Schön, Bish Sanyal, and William J. Mitchell. Cambridge, MA: MIT Press, 1998. ISBN: 9780262691994.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262691994) Ferreira, J. "Information Technologies that Change Relationships Between Low-income Communities and the Public and Non-Profit Agencies that Serve Them." In High Technology and Low-Income Communities: Prospects for the Positive Use of Advanced Information Technology, eds. Donald A. Schön, Bish Sanyal, and William J. Mitchell. Cambridge, MA: MIT Press, 1998. ISBN: 9780262691994.
 
 
 {{< tdclose >}}
@@ -321,7 +323,7 @@ Web mapping resources
 {{< tdopen >}}
 
 
-The NCGIA Core Curriculum: {{% resource_link "05ac24ee-fc1f-4003-8f1f-1757948016cd" "NCGIA Core Curriculum in GISci" %}}
+The NCGIA Core Curriculum: [NCGIA Core Curriculum in GISci](http://www.ncgia.ucsb.edu/pubs/core.html)
 
 Marble, D. "The Potential Methodological Impact of Geographical Information Systems." (1990).
 

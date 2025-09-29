@@ -5,6 +5,8 @@ description: Lab exercise to produce a thematic map of 1990 Census data for town
 file: /courses/11-208-introduction-to-computers-in-public-management-ii-january-iap-2002/7848c0314708244993547a487ce139e1_notes01.pdf
 file_size: 941264
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
