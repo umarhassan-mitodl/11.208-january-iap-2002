@@ -5,8 +5,6 @@ description: Notes accompanying a lab exercise on web mapping resources and basi
 file: /courses/11-208-introduction-to-computers-in-public-management-ii-january-iap-2002/cae8ae4eaf389bfe3a88fe9fbc70dec7_notes07.pdf
 file_size: 742463
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -38,7 +38,6 @@
     "website": "11-208-introduction-to-computers-in-public-management-ii-january-iap-2002"
   },
   "course_title": "Introduction to Computers in Public Management II",
-  "hide_download": true,
   "course_description": "Second of two modules facilitating a basic understanding of computing in planning and public management. Students develop problem-solving skills using computer-based tools for \"what-if\" analyses. Emphasis on spatial analysis using geographic information systems and database query tools.\n",
   "department_numbers": [
     "11"
@@ -49,7 +48,6 @@
     "content": "15c6b3f2-7db8-3e2f-05bc-53bfc8d60720",
     "website": "11-208-introduction-to-computers-in-public-management-ii-january-iap-2002"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Problem Sets with Solutions"

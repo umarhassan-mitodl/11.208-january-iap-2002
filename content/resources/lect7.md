@@ -5,8 +5,6 @@ description: Lecture notes on extracting census data and and producing a map tha
 file: /courses/11-208-introduction-to-computers-in-public-management-ii-january-iap-2002/296fce7e4c86191413a17b80bcd92760_lect7.pdf
 file_size: 278791
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: Lecture notes on database management systems.
 file: /courses/11-208-introduction-to-computers-in-public-management-ii-january-iap-2002/95c4e3d4930c42bdf31f7f153d862435_lect6.pdf
 file_size: 90312
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

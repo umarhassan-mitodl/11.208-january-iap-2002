@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides information on exhibition planning software and
   planning support systems research.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
